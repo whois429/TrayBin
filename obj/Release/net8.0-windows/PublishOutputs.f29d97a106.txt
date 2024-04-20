@@ -1,0 +1,6 @@
+D:\Programming\TrayBin\Publish\TrayBin.exe
+D:\Programming\TrayBin\Publish\TrayBin.dll
+D:\Programming\TrayBin\Publish\TrayBin.deps.json
+D:\Programming\TrayBin\Publish\TrayBin.runtimeconfig.json
+D:\Programming\TrayBin\Publish\TrayBin.dll.config
+D:\Programming\TrayBin\Publish\TrayBin.pdb
